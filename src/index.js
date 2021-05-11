@@ -1,4 +1,4 @@
-пшеimport { Data } from "./data.js";
+import { Data } from "./data.js";
 import { Table } from "./table.js";
 
 let data = new Data;
